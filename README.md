@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 A backend API built with **Node.js + Express** that fetches stock data from **Yahoo Finance** and enriches it with portfolio metrics like **P/E Ratio, EPS, Net Income, Present Value, and Gain/Loss**.
+- **Backend (Express API)** 👉 [https://stocksapi-qp3k.onrender.com](https://stocksapi-qp3k.onrender.com) 
 
 ---
 
