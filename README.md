@@ -127,8 +127,8 @@ Copy code
 ```
 
 🌐 Deployment
+Page is live ar Deployment link: https://frontendstocksmarket-jg0sl4iti-soumya-rouls-projects.vercel.app 
 You can deploy this API on:
-
 Render
 
 Railway
